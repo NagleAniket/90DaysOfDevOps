@@ -61,6 +61,3 @@ Let's come together to grow and achieve new heights in DevOps!
 
 ## Thanks to all contributors ❤
 
- <a href = "https://github.com/LondheShubham153/90DaysOfDevOps/graphs/contributors">
-   <img src = "https://contrib.rocks/image?repo=LondheShubham153/90DaysOfDevOps"/>
- </a>
